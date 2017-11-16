@@ -1,0 +1,11 @@
+{
+  "name": "webpack_examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Douglas Alves <douglas.expalves@gmail.com> (https://dougtq.github.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "1.14.0",
+    "webpack-dev-server": "1.16.2"
+  }
+}
