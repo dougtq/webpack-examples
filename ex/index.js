@@ -1,4 +1,5 @@
 import Pessoa from './Pessoa'
+import './app.css'
 let common = require('./common')
 
 console.log('Webpack funcionando')
@@ -18,7 +19,6 @@ let clone = objeto => {
 }
 
 let produto = clone(obj)
-
 produto.nome = 'Avião'
 
 console.log(obj, produto)
